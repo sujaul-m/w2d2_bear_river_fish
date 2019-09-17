@@ -29,4 +29,8 @@ class Bear
   #   # bear_stomach()
   # end
 
+  def roar()
+    return "ROAR"
+  end
+
 end
